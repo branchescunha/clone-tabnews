@@ -1,2 +1,2 @@
 # clone-tabnews
-projeto com fins educativos
+Projeto com fins educativos
