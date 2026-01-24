@@ -1,13 +1,5 @@
 function Home() {
-  return <h1>Teste Decoreba</h1>;
-}
-
-function teste() {
-  console.log("teste");
-}
-
-function testeerro() {
-  console.log("testeerro");
+  return <h1>Meu primeiro site no ar.</h1>;
 }
 
 export default Home;
